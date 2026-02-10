@@ -1,18 +1,53 @@
-CryptoKet : Where Digital Assets Thrive
-======================================================  
+# CryptoKet – A Simple NFT Marketplace
 
-CryptoKet is made using the immense power of Solidity and Next.js. This project combines futuristic elements of Web3 blockchain development and the popular culture wave of non-fungible tokens (NFT).
+CryptoKet is a web application where users can **create, buy, sell, and resell NFTs (Non-Fungible Tokens)**.  
+It is built using **Solidity** for blockchain logic and **Next.js** for the frontend.
 
-This application includes creation, buying, selling and reselling of NFTs and user authentication through metamask wallet. Its theme can be switched to both dark and light mode.
+This project focuses on **Web3 and blockchain technology**, making digital asset trading secure and decentralized.
 
-Context API is used for state management and Tailwind CSS is used for styling the application. Solidity is used to write smart contract and hardhat is used to deploy the smart contract.
+---
 
-## Key Features:
+## 🚀 What Can You Do on CryptoKet?
 
-* *Web3 Integration*: NFT Marketplace embraces Web3 concepts and technologies, ensuring a decentralized and secure trading environment.  
+- Create (mint) your own NFTs  
+- Buy NFTs from the marketplace  
+- Sell and resell owned NFTs  
+- Connect your wallet using **MetaMask**  
+- Switch between **dark mode** and **light mode**
 
-* *Smart Contract Development*: Leveraging Solidity, it facilitates the creation of smart contracts, enabling the creation and transfer of NFTs.  
+---
 
-* *IPFS Integration*: NFT assets are securely stored and accessed through the InterPlanetary File System (IPFS), ensuring data integrity and availability.  
+## 🛠️ Technologies Used
 
-The NFT Marketplace empowers artists, creators, and collectors to engage in the exciting world of digital asset trading. Whether you're minting your own NFTs or exploring unique digital collectibles, this platform provides the tools and infrastructure for a vibrant NFT ecosystem. Explore, create, and trade in the NFT Marketplace to unlock the potential of digital ownership and expression.  
+- **Solidity** – Smart contract development  
+- **Hardhat** – Deploying and testing smart contracts  
+- **Next.js** – Frontend framework  
+- **Context API** – State management  
+- **Tailwind CSS** – Styling the application  
+- **IPFS** – Storing NFT images and metadata  
+- **MetaMask** – Wallet authentication and transactions  
+
+---
+
+## ✨ Key Features
+
+### 🌐 Web3 Integration
+CryptoKet uses blockchain technology to ensure secure and decentralized NFT trading.
+
+### 📜 Smart Contracts
+NFTs are created and transferred using Solidity-based smart contracts.
+
+### 📦 IPFS Storage
+All NFT files are stored on IPFS, ensuring data security and availability.
+
+---
+
+## 🎯 Why CryptoKet?
+
+CryptoKet empowers **artists, creators, and collectors** to easily participate in the NFT ecosystem.  
+Whether you want to create digital art or explore unique collectibles, CryptoKet provides a simple and reliable platform.
+
+---
+
+### 💡 Create. Explore. Trade.
+Own digital assets with **CryptoKet**.
