@@ -28,7 +28,15 @@ This project focuses on **Web3 and blockchain technology**, making digital asset
 - **MetaMask** – Wallet authentication and transactions  
 
 ---
+## 🧪 How to Run Locally
 
+1. Clone the repository
+2. Install dependencies: npm install
+3. Start Hardhat node: npx hardhat node
+4. Deploy contract: npx hardhat run scripts/deploy.js --network localhost
+5. Run frontend: npm run dev
+
+---
 ## ✨ Key Features
 
 ### 🌐 Web3 Integration
